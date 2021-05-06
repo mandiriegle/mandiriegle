@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandiriegle
-- 👀 I’m interested in enhancing my Python skills
-- 🌱 I’m currently learning Python and Django
+- 👀 I’m interested in enhancing my Python and Front-End skills
+- 🌱 I’m currently brushing up on Python, and mastering HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on any entry or intermediate Python work
 - 📫 How to reach me ... mandi.riegle@protonmail.com
 
